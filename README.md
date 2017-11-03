@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3, 2017 
 
 ### Student Name:  
-(First and Last Name)
+Rashawn Mckenzie
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, we created photo gallery where the user has the ability to navigate through the pictures and so more pictures at a time.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/rlm15c/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to correctly use a for loop. 
+2. We learned how to correctly use if statements.
+3. We learned how to correctly append an image onto a webpage.
